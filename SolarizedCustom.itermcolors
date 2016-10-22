@@ -20,26 +20,26 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.041377689689397812</real>
+		<real>0.027423586696386337</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>1</real>
+		<real>0.0</real>
 		<key>Red Component</key>
-		<real>0.13528642058372498</real>
+		<real>0.98623955249786377</real>
 	</dict>
 	<key>Ansi 10 Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.38298487663269043</real>
+		<real>0.035143394023180008</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>0.35665956139564514</real>
+		<real>0.65973830223083496</real>
 		<key>Red Component</key>
-		<real>0.27671992778778076</real>
+		<real>0.99310398101806641</real>
 	</dict>
 	<key>Ansi 11 Color</key>
 	<dict>
@@ -111,39 +111,39 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.17757779359817505</real>
+		<real>0.89655321836471558</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>1</real>
+		<real>0.51123464107513428</real>
 		<key>Red Component</key>
-		<real>0.45415380597114563</real>
+		<real>0.079358488321304321</real>
 	</dict>
 	<key>Ansi 3 Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.036922145634889603</real>
+		<real>0.22205489873886108</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>0.98030304908752441</real>
+		<real>0.18071717023849487</real>
 		<key>Red Component</key>
-		<real>0.82964038848876953</real>
+		<real>0.98686236143112183</real>
 	</dict>
 	<key>Ansi 4 Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.34562003612518311</real>
+		<real>0.040053755044937134</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>0.32082253694534302</real>
+		<real>1</real>
 		<key>Red Component</key>
-		<real>0.9880145788192749</real>
+		<real>0.93906247615814209</real>
 	</dict>
 	<key>Ansi 5 Color</key>
 	<dict>
@@ -202,13 +202,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.074591591954231262</real>
+		<real>0.51420378684997559</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>0.43456321954727173</real>
+		<real>0.0</real>
 		<key>Red Component</key>
-		<real>0.74470317363739014</real>
+		<real>0.95538437366485596</real>
 	</dict>
 	<key>Background Color</key>
 	<dict>
@@ -241,39 +241,39 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.56363654136657715</real>
+		<real>0.45997345447540283</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>0.56485843658447266</real>
+		<real>0.005776137113571167</real>
 		<key>Red Component</key>
-		<real>0.50599193572998047</real>
+		<real>0.98606991767883301</real>
 	</dict>
 	<key>Cursor Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.51685798168182373</real>
+		<real>0.039321441203355789</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>0.50962930917739868</real>
+		<real>0.90707391500473022</real>
 		<key>Red Component</key>
-		<real>0.44058021903038025</real>
+		<real>0.99838912487030029</real>
 	</dict>
 	<key>Cursor Guide Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>0.25</real>
 		<key>Blue Component</key>
-		<real>0.99933779239654541</real>
+		<real>0.64334666728973389</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>0.90828609466552734</real>
+		<real>1</real>
 		<key>Red Component</key>
-		<real>0.64975613355636597</real>
+		<real>0.8301537036895752</real>
 	</dict>
 	<key>Cursor Text Color</key>
 	<dict>
@@ -293,13 +293,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.55297720432281494</real>
+		<real>0.6071772575378418</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>0.80490309000015259</real>
+		<real>0.97103750705718994</real>
 		<key>Red Component</key>
-		<real>0.18748864531517029</real>
+		<real>0.14880634844303131</real>
 	</dict>
 	<key>Link Color</key>
 	<dict>
